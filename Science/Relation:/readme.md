@@ -1,1 +1,3 @@
-https://www.youtube.com/results?search_query=amalgam
+- https://www.youtube.com/results?search_query=amalgam
+- https://www.youtube.com/results?search_query=amalgam+chemistry
+- https://www.youtube.com/results?search_query=amalgam+science
